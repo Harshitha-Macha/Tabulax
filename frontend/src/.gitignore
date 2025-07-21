@@ -16,3 +16,4 @@ Thumbs.db
 # *.dll
 # *.lib
 # Add any other folders/files you don't want to upload
+backend/venv/
