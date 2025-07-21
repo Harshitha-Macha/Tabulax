@@ -1,0 +1,18 @@
+# Python virtual environments
+venv/
+.venv/
+env/
+.env/
+
+# Compiled Python files
+__pycache__/
+*.pyc
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Other common large files or specific to your project if any
+# *.dll
+# *.lib
+# Add any other folders/files you don't want to upload
