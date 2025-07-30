@@ -1,4 +1,4 @@
-How to run this?
+How to run this application?
 
 -download the mistral-7b-instruct-v0.1.Q8_0.gguf model from hugging face (Note that the model is gguf file)
 
